@@ -37,6 +37,7 @@ A fully automated cloud document intelligence pipeline built with n8n and the Go
 ### 1. Start the Python Metadata API
 
 ```bash
+source venv/bin/activate
 pip install -r requirements.txt
 python main.py
 ```
