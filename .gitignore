@@ -1,0 +1,6 @@
+incoming_docs/
+output_docs/
+venv/
+
+.DS_Store
+
